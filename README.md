@@ -1,1 +1,1 @@
-# maze_solving_algo
+# maze_solving_algorithms
